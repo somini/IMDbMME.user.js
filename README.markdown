@@ -4,7 +4,7 @@ This is a script that enhances IMDb site, by labeling the links with colors, dep
 ![Example][main_example]
 
 Total credit goes to Ricardo Mendonça Ferreira, this is just a mirror/fork because the userscripts site went away.
-The original site is [original]
+The original site is [here][original].
 
 
 [original]: https://www.flickr.com/photos/ricardo_ferreira/2502798105/
